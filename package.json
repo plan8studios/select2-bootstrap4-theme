@@ -1,5 +1,5 @@
 {
-  "name": "@ttskch/select2-bootstrap4-theme",
+  "name": "plan8studios/select2-bootstrap4-theme",
   "version": "1.0.3",
   "description": "Select2 v4 theme for Bootstrap4",
   "main": "",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ttskch/select2-bootstrap4-theme.git"
+    "url": "git+ssh://git@github.com/plan8studios/select2-bootstrap4-theme.git"
   },
   "keywords": [
     "select2",
@@ -22,12 +22,12 @@
     "css",
     "scss"
   ],
-  "author": "ttskch",
+  "author": "plan8studios",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ttskch/select2-bootstrap4-theme/issues"
+    "url": "https://github.com/plan8studios/select2-bootstrap4-theme/issues"
   },
-  "homepage": "https://github.com/ttskch/select2-bootstrap4-theme#readme",
+  "homepage": "https://github.com/plan8studios/select2-bootstrap4-theme#readme",
   "devDependencies": {
     "autoprefixer": "^8.0.0",
     "bootstrap": "^4.0.0",
